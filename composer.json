@@ -7,7 +7,7 @@
   "homepage": "https://lyfter.nl",
   "keywords": ["wordpress"],
   "support": {
-    "issues": "https://github.com/lyfter/multisite-url-fixer/issues",
+    "issues": "https://github.com/lyfter/multisite-url-fixer/issues"
   },
   "autoload": {
     "psr-4": {
