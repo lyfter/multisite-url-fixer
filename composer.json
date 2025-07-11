@@ -4,11 +4,10 @@
   "license": "MIT",
   "description":
     "Fixes WordPress issues with home and site URL on multisite when using Bedrock",
-  "homepage": "https://roots.io/bedrock/",
+  "homepage": "https://lyfter.nl",
   "keywords": ["wordpress"],
   "support": {
-    "issues": "https://github.com/roots/multisite-url-fixer/issues",
-    "forum": "https://discourse.roots.io/"
+    "issues": "https://github.com/lyfter/multisite-url-fixer/issues",
   },
   "autoload": {
     "psr-4": {
