@@ -1,12 +1,9 @@
 # Multisite URL Fixer
 
-[![Project Status: Inactive – The project has reached a stable, usable state but is no longer being actively developed; support/maintenance will be provided as time allows.](https://www.repostatus.org/badges/latest/inactive.svg)](https://www.repostatus.org/#inactive)
+[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 
-This repository is no longer maintained.
-
-If you would like to become the owner of this repository, or if you would like to be given write access, then [please reach out to us](https://twitter.com/rootswp).
-
-[Potential useful forks](https://useful-forks.github.io/?repo=roots%2Fmultisite-url-fixer)
+Lyfter forked the original repository and intends to update and adapt the code if needed.  
+So far the original code works as intended for us.
 
 * * *
 
